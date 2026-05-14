@@ -4,6 +4,7 @@
 
 > **Operational Approach:** This project focuses on decision support with limited enforcement resources.
 > The goal is not prediction but **prioritization**: to help city leadership allocate patrol forces where they are needed most.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/30201d75-e2a2-4c8a-b173-3edf8d6885d2" />
 
 ---
 
